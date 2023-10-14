@@ -11,7 +11,7 @@ body {
 }
 
 .cover-img-blur{
-  background-image: url('../img/cover-art/cover-background-img.jpg');
+  background-image: url('../img/cover-art/game/NOTF/covert-art.png');
   background-size: cover;
   background-position: center;
   z-index: -100;
